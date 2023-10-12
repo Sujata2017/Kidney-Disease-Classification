@@ -29,13 +29,17 @@
 
 #### Run this to export as env variables:
 
+<<<<<<< HEAD
 ```bash
 
+=======
+>>>>>>> d392f24eec099200d2013367732b928af6a197a1
 export MLFLOW_TRACKING_URI=https://dagshub.com/sujataroy2009/Kidney-Disease-Classification.mlflow
 
 export MLFLOW_TRACKING_USERNAME=sujataroy2009
 
 export MLFLOW_TRACKING_PASSWORD=your_token
+<<<<<<< HEAD
 
 ```
 
@@ -45,3 +49,5 @@ export MLFLOW_TRACKING_PASSWORD=your_token
 
 
 
+=======
+>>>>>>> d392f24eec099200d2013367732b928af6a197a1
