@@ -21,10 +21,10 @@
 
 
 #### dagshub
-MLFLOW_TRACKING_URI=https://dagshub.com/sujataroy2009/Kidney-Disease-Classification.mlflow
-MLFLOW_TRACKING_USERNAME=entbappy
-MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
-python script.py
+* MLFLOW_TRACKING_URI=https://dagshub.com/sujataroy2009/Kidney-Disease-Classification.mlflow
+* MLFLOW_TRACKING_USERNAME=sujataroy2009
+* MLFLOW_TRACKING_PASSWORD=your_token
+* python script.py
 
 
 #### Run this to export as env variables:
