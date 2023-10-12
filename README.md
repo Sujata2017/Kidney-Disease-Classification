@@ -12,3 +12,36 @@
 * 9. Update the dvc.yaml
 * 10. app.py
 
+
+
+### MLflow
+
+#### cmd
+* mlflow ui
+
+
+#### dagshub
+* MLFLOW_TRACKING_URI=https://dagshub.com/sujataroy2009/Kidney-Disease-Classification.mlflow
+* MLFLOW_TRACKING_USERNAME=sujataroy2009
+* MLFLOW_TRACKING_PASSWORD=your_token
+* python script.py
+
+
+#### Run this to export as env variables:
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/sujataroy2009/Kidney-Disease-Classification.mlflow
+
+export MLFLOW_TRACKING_USERNAME=sujataroy2009
+
+export MLFLOW_TRACKING_PASSWORD=your_token
+
+```
+
+
+
+
+
+
+
