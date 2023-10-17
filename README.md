@@ -39,9 +39,11 @@ export MLFLOW_TRACKING_PASSWORD=your_token
 
 ```
 
-
-
-
-
+#### DVC Command
+```
+dvc init
+dvc repro
+dvc dag
+```
 
 
