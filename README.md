@@ -97,7 +97,7 @@ DVC
 
 ##### 3. Create ECR repo to store/save docker image
 ```
-- Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/chicken
+- Save the URI: 279966581246.dkr.ecr.ap-south-1.amazonaws.com/kidney
 ```
 
 ##### 4. Create EC2 machine (Ubuntu)
@@ -139,3 +139,25 @@ AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
 ECR_REPOSITORY_NAME = simple-app
 ```
+
+#### EC2 instance connection establshied with GitHub, and successfully completed Continuous Integration, Continuous Delivery and Continuous-Deployment
+
+<p align="center">
+  <img src="kidney3.JPG" width="500">
+</p>
+
+
+
+
+#### Run instance with Public IPv4 address
+
+<p align="center">
+  <img src="kidney1.JPG" width="500">
+</p>
+
+
+
+<p align="center">
+  <img src="kidney2.JPG" width="500">
+</p>
+
